@@ -6,7 +6,7 @@
     "axios": "^0.24.0",
     "bootstrap": "^4.4.1",
     "jquery": "^3.6.0",
-    "jquery-ui": "^1.13.0",
+    "jquery-ui": "^1.13.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
